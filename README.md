@@ -1,2 +1,2 @@
 # Django
-All projects with Django Framework
+Simple Poll App with django
